@@ -1,6 +1,6 @@
 ### Hi there 👋
-##✨ _special_me✨
-##🏀About me
+## ✨ _special_me✨
+## 🏀About me
 - 🔭 I’m currently working on a university.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on moive.

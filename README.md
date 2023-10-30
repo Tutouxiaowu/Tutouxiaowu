@@ -1,5 +1,5 @@
 ### Hi there 👋
- ##✨ _special_me✨
+##✨ _special_me✨
 ##🏀About me
 - 🔭 I’m currently working on a university.
 - 🌱 I’m currently learning Python.

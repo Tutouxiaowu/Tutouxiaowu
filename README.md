@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on moive.
 - 🤔 I’m looking for help with GitHub,
-- 💬 Ask me about 1396632930qq.com.
+- 💬 Ask me about 1396632930@qq.com.
 - 📫 Reach me.
 - 😄 Pronouns 🩹happy very days .
 - ⚡ Fun fact: study in my heart.
